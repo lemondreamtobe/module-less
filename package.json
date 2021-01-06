@@ -1,6 +1,6 @@
 {
     "name": "module-less",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "description": "collect less from kinds of modules",
     "main": "index.less",
     "scripts": {
