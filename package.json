@@ -1,23 +1,23 @@
 {
-  "name": "module-less",
-  "version": "1.0.0",
-  "description": "collect less from kinds of modules",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/lemondreamtobe/module-less.git"
-  },
-  "keywords": [
-    "less",
-    "module"
-  ],
-  "author": "lemonzhang",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/lemondreamtobe/module-less/issues"
-  },
-  "homepage": "https://github.com/lemondreamtobe/module-less#readme"
+    "name": "module-less",
+    "version": "1.0.2",
+    "description": "collect less from kinds of modules",
+    "main": "index.less",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/lemondreamtobe/module-less.git"
+    },
+    "keywords": [
+        "less",
+        "module"
+    ],
+    "author": "lemonzhang",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/lemondreamtobe/module-less/issues"
+    },
+    "homepage": "https://github.com/lemondreamtobe/module-less#readme"
 }
